@@ -6,3 +6,5 @@ g++ maze.cpp -Idependencies/GLAD -Idependencies/STB -Ldependencies/GLAD -Ldepend
 ./maze
 
 
+![Screenshot from maze-run webm](https://github.com/Ammar9290/Maze-Run/assets/123241157/a11342db-82a2-4ffc-8f9e-3893d33d4da3)
+![Screenshot from maze-run webm - 1](https://github.com/Ammar9290/Maze-Run/assets/123241157/a75205e6-214e-402c-a6e1-bfaf3179126c)
